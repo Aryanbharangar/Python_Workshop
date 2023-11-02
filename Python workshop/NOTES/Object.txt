@@ -1,0 +1,16 @@
+Object
+
+__init__ method is a special method used to initialliized the object whrn it is created.
+
+slef:it is a refrence to the current instance of a class.It is used to intrect with instaance_specific attributes and methods making it a fundamental part of object-oriented programing.
+
+Ikn thee 'OBJECT' and 'CLASSES' examples, self is used within _init_ method to refer the instance being created.
+
+CLASS IN PYTHON ARE FOR CREATING  OBJECTS.
+
+
+
+
+#Encapsulation:it is a concept that restricts the access to certain path of an object. (used for sensitive information..)
+
+#Inheritance allowa you  to create new classes that inheritt properties and methods from existing classes.
